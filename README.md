@@ -1,4 +1,3 @@
-```md
 <!-- =========================================================
      GitHub Profile README
      Repo name: samarthpaliwal/samarthpaliwal
@@ -27,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=samarthpaliwal&label=Profile%20views&color=333&style=flat" alt="Profile views" />
 </p>
 
-```
+---
 
 ────────────────────────────────────────────────────────────
 
@@ -39,48 +38,39 @@ I build systems end-to-end — UI, APIs, data flow, and deployment — with an e
 
 🎯 Target roles: **AI internships**, **SWE**, **research-adjacent engineering teams**.
 
-```
 ────────────────────────────────────────────────────────────
-```
 
 ## 🧠 Research-first (OpenAI-style)
 
 I’m interested in how language models integrate into real systems.
 
 **Focus areas**
-
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧬 Embeddings and semantic search
-* 🧪 Evaluation, failure modes, and edge cases
-* 🧰 Human-in-the-loop AI tools
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧬 Embeddings and semantic search
+- 🧪 Evaluation, failure modes, and edge cases
+- 🧰 Human-in-the-loop AI tools
 
 **Engineering lens**
+- Clear boundaries between ML and product code  
+- Reliability over demos  
+- Practical evaluation and iteration  
 
-* Clear boundaries between ML and product code
-* Reliability over demos
-* Practical evaluation and iteration
-
-```
 ────────────────────────────────────────────────────────────
-```
 
 ## 🚀 Startup / Product engineer
 
 I enjoy fast-moving environments where:
-
-* ⚡ features ship quickly
-* 🧱 code stays readable under pressure
-* 🎛️ UX, backend, and data are treated as one system
+- ⚡ features ship quickly
+- 🧱 code stays readable under pressure
+- 🎛️ UX, backend, and data are treated as one system
 
 I like turning vague ideas into working software and iterating under real constraints.
 
-```
 ────────────────────────────────────────────────────────────
-```
 
 ## ⭐ Featured projects
 
-> Add screenshots to this repo under `./assets/`
+> Add screenshots to this repo under `./assets/`  
 > Update repo/demo links as needed.
 
 <table>
@@ -137,47 +127,38 @@ I like turning vague ideas into working software and iterating under real constr
   </tr>
 </table>
 
-```
 ────────────────────────────────────────────────────────────
-```
 
 ## 🛠 Technical stack
 
 **Languages**
-
-* JavaScript / TypeScript
-* Python
+- JavaScript / TypeScript
+- Python
 
 **Frontend**
-
-* React
-* Modern CSS
-* Component-driven UI
+- React
+- Modern CSS
+- Component-driven UI
 
 **Backend**
-
-* Node.js
-* Express
-* REST APIs
-* MongoDB
+- Node.js
+- Express
+- REST APIs
+- MongoDB
 
 **AI / ML**
-
-* ML fundamentals
-* Embeddings
-* RAG pipelines
-* Prompt-based systems
+- ML fundamentals
+- Embeddings
+- RAG pipelines
+- Prompt-based systems
 
 **Tools**
+- Git & GitHub
+- VS Code
+- Vercel
+- AWS (foundations)
 
-* Git & GitHub
-* VS Code
-* Vercel
-* AWS (foundations)
-
-```
 ────────────────────────────────────────────────────────────
-```
 
 ## 📊 GitHub activity
 
@@ -186,18 +167,13 @@ I like turning vague ideas into working software and iterating under real constr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpaliwal&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
-```
 ────────────────────────────────────────────────────────────
-```
 
 ## 📫 Contact
 
-* 📧 **[samarthpaliwal@gmail.com](mailto:samarthpaliwal@gmail.com)**
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/samarth-paliwal/](https://www.linkedin.com/in/samarth-paliwal/)
+- 📧 **[samarthpaliwal@gmail.com](mailto:samarthpaliwal@gmail.com)**
+- 💼 **LinkedIn:** https://www.linkedin.com/in/samarth-paliwal/
 
 <!-- =========================
      End of README
 ========================= -->
-
-```
-```
