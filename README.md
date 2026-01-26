@@ -1,6 +1,6 @@
-<h2>Samarth Paliwal</h2>
+<h1 align="center">Samarth Paliwal</h1>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/samarth-paliwal/">
     <img src="https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=0A66C2" />
   </a>
@@ -9,28 +9,32 @@
   </a>
 </p>
 
+<p align="center">
+  <sub>Computer Science · Software Engineering · AI Systems</sub>
+</p>
+
 ---
 
-## Profile
+## Overview
 
 Computer Science undergraduate focused on **software engineering**, **AI/ML systems**, and **product-grade development**.
 
-I build systems end-to-end: frontend, backend, data flow, and deployment.  
-I care about **clarity, performance, and shipping real features**, not demos.
+I design and build systems end-to-end — frontend, backend, data flow, and deployment.  
+My work prioritizes **clarity**, **correctness**, and **shipping usable software**.
 
-Currently targeting **AI internships**, **SWE roles**, and **research-adjacent engineering teams**.
-
----
-
-## Current work
-
-- Full-stack applications using **React, Node.js, MongoDB**
-- AI-powered features using **Python, embeddings, and RAG pipelines**
-- Clean UI systems with attention to state, data flow, and edge cases
+Actively targeting **AI internships**, **SWE roles**, and **research-adjacent engineering teams**.
 
 ---
 
-## Technical focus
+## What I’m working on
+
+- Full-stack applications using **React**, **Node.js**, and **MongoDB**
+- AI-powered features with **Python**, **embeddings**, and **RAG pipelines**
+- UI systems that treat state, data, and interaction as one system
+
+---
+
+## Technical stack
 
 **Languages**
 - JavaScript / TypeScript  
@@ -39,65 +43,62 @@ Currently targeting **AI internships**, **SWE roles**, and **research-adjacent e
 **Frontend**
 - React  
 - Modern CSS  
-- Component-driven UI
+- Component-driven architecture  
 
 **Backend**
 - Node.js  
 - Express  
 - REST APIs  
-- MongoDB
+- MongoDB  
 
 **AI / ML**
-- ML fundamentals  
+- Machine learning fundamentals  
 - Embeddings & retrieval  
 - RAG system design  
-- Prompt-driven interfaces
+- Prompt-based interfaces  
 
 **Tools**
-- Git / GitHub  
+- Git & GitHub  
 - VS Code  
 - Vercel  
-- Basic AWS concepts
+- AWS (foundations)
 
 ---
 
-## Engineering mindset
+## Engineering approach
 
-- Prefer **simple systems that scale**
-- Write code meant to be read later
-- Treat UI, data, and logic as one system
-- Optimize for correctness first, then performance
+- Build **simple systems that scale**
+- Write code meant to be read and extended
+- Optimize for correctness before performance
+- Treat UX as part of the system, not an afterthought
 
 ---
 
 ## GitHub activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthpaliwal&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpaliwal&layout=compact&theme=dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarthpaliwal&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpaliwal&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## Projects
 
-Pinned repositories reflect:
+Pinned repositories highlight:
 - Full-stack product work  
 - AI-assisted tooling  
 - Clean, maintainable codebases  
 
-Each repo is structured to be readable by another engineer.
+Each repository is structured to be readable by another engineer.
 
 ---
 
 ## Contact
 
-- Email: **samarthpaliwal@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/samarth-paliwal/
+- **Email:** samarthpaliwal@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/samarth-paliwal/
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=samarthpaliwal&label=Profile%20views&color=333&style=flat" />
 </p>
