@@ -1,104 +1,203 @@
+```md
+<!-- =========================================================
+     GitHub Profile README
+     Repo name: samarthpaliwal/samarthpaliwal
+     File: README.md
+========================================================= -->
+
 <h1 align="center">Samarth Paliwal</h1>
 
 <p align="center">
+  <b>Software Engineering · AI Systems · Product Builder</b>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/samarth-paliwal/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="mailto:samarthpaliwal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111?logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-111?logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://github.com/samarthpaliwal">
+    <img src="https://img.shields.io/badge/GitHub-111?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Computer Science · Software Engineering · AI Systems</sub>
+  <img src="https://komarev.com/ghpvc/?username=samarthpaliwal&label=Profile%20views&color=333&style=flat" alt="Profile views" />
 </p>
 
----
+```
 
-## Overview
+────────────────────────────────────────────────────────────
 
-Computer Science undergraduate focused on **software engineering**, **AI/ML systems**, and **product-grade development**.
+## 👋 About me
 
-I design and build systems end-to-end — frontend, backend, data flow, and deployment.  
-My work prioritizes **clarity**, **correctness**, and **shipping usable software**.
+I’m a Computer Science undergraduate focused on **software engineering**, **AI-assisted systems**, and **shipping product-grade applications**.
 
-Actively targeting **AI internships**, **SWE roles**, and **research-adjacent engineering teams**.
+I build systems end-to-end — UI, APIs, data flow, and deployment — with an emphasis on clarity, correctness, and usability.
 
----
+🎯 Target roles: **AI internships**, **SWE**, **research-adjacent engineering teams**.
 
-## What I’m working on
+```
+────────────────────────────────────────────────────────────
+```
 
-- Full-stack applications using **React**, **Node.js**, and **MongoDB**
-- AI-powered features with **Python**, **embeddings**, and **RAG pipelines**
-- UI systems that treat state, data, and interaction as one system
+## 🧠 Research-first (OpenAI-style)
 
----
+I’m interested in how language models integrate into real systems.
 
-## Technical stack
+**Focus areas**
+
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🧬 Embeddings and semantic search
+* 🧪 Evaluation, failure modes, and edge cases
+* 🧰 Human-in-the-loop AI tools
+
+**Engineering lens**
+
+* Clear boundaries between ML and product code
+* Reliability over demos
+* Practical evaluation and iteration
+
+```
+────────────────────────────────────────────────────────────
+```
+
+## 🚀 Startup / Product engineer
+
+I enjoy fast-moving environments where:
+
+* ⚡ features ship quickly
+* 🧱 code stays readable under pressure
+* 🎛️ UX, backend, and data are treated as one system
+
+I like turning vague ideas into working software and iterating under real constraints.
+
+```
+────────────────────────────────────────────────────────────
+```
+
+## ⭐ Featured projects
+
+> Add screenshots to this repo under `./assets/`
+> Update repo/demo links as needed.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 AI-Powered Hotel Search Platform</h3>
+      <img src="assets/hotel-app.png" alt="Hotel App Screenshot" width="100%" />
+      <p>
+        Full-stack hotel search platform with filters, city data, and an AI assistant layer.
+      </p>
+      <p><b>Tech:</b> React · Node.js · MongoDB · Embeddings · RAG</p>
+      <p>
+        <a href="https://github.com/samarthpaliwal/REPO_LINK">Repo</a> ·
+        <a href="https://DEMO_LINK">Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 RAG-Based AI Assistant</h3>
+      <img src="assets/rag-assistant.png" alt="RAG Assistant Screenshot" width="100%" />
+      <p>
+        Retrieval + generation system focused on accuracy, latency, and reliability.
+      </p>
+      <p><b>Tech:</b> Python · Vector Search · Prompting</p>
+      <p>
+        <a href="https://github.com/samarthpaliwal/REPO_LINK">Repo</a> ·
+        <a href="https://DEMO_LINK">Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Product Website (React)</h3>
+      <img src="assets/landing-site.png" alt="Landing Site Screenshot" width="100%" />
+      <p>
+        Production-style landing site with clean layout, responsive design, and animations.
+      </p>
+      <p><b>Tech:</b> React · Modern CSS · Component Architecture</p>
+      <p>
+        <a href="https://github.com/samarthpaliwal/REPO_LINK">Repo</a> ·
+        <a href="https://DEMO_LINK">Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend API System</h3>
+      <img src="assets/backend-api.png" alt="Backend API Screenshot" width="100%" />
+      <p>
+        REST API with structured data models and validation.
+      </p>
+      <p><b>Tech:</b> Node.js · Express · MongoDB</p>
+      <p>
+        <a href="https://github.com/samarthpaliwal/REPO_LINK">Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+```
+────────────────────────────────────────────────────────────
+```
+
+## 🛠 Technical stack
 
 **Languages**
-- JavaScript / TypeScript  
-- Python  
+
+* JavaScript / TypeScript
+* Python
 
 **Frontend**
-- React  
-- Modern CSS  
-- Component-driven architecture  
+
+* React
+* Modern CSS
+* Component-driven UI
 
 **Backend**
-- Node.js  
-- Express  
-- REST APIs  
-- MongoDB  
+
+* Node.js
+* Express
+* REST APIs
+* MongoDB
 
 **AI / ML**
-- Machine learning fundamentals  
-- Embeddings & retrieval  
-- RAG system design  
-- Prompt-based interfaces  
+
+* ML fundamentals
+* Embeddings
+* RAG pipelines
+* Prompt-based systems
 
 **Tools**
-- Git & GitHub  
-- VS Code  
-- Vercel  
-- AWS (foundations)
 
----
+* Git & GitHub
+* VS Code
+* Vercel
+* AWS (foundations)
 
-## Engineering approach
+```
+────────────────────────────────────────────────────────────
+```
 
-- Build **simple systems that scale**
-- Write code meant to be read and extended
-- Optimize for correctness before performance
-- Treat UX as part of the system, not an afterthought
-
----
-
-## GitHub activity
+## 📊 GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samarthpaliwal&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpaliwal&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
----
+```
+────────────────────────────────────────────────────────────
+```
 
-## Projects
+## 📫 Contact
 
-Pinned repositories highlight:
-- Full-stack product work  
-- AI-assisted tooling  
-- Clean, maintainable codebases  
+* 📧 **[samarthpaliwal@gmail.com](mailto:samarthpaliwal@gmail.com)**
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/samarth-paliwal/](https://www.linkedin.com/in/samarth-paliwal/)
 
-Each repository is structured to be readable by another engineer.
+<!-- =========================
+     End of README
+========================= -->
 
----
-
-## Contact
-
-- **Email:** samarthpaliwal@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/samarth-paliwal/
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarthpaliwal&label=Profile%20views&color=333&style=flat" />
-</p>
+```
+```
