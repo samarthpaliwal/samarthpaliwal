@@ -1,179 +1,131 @@
-<!-- =========================================================
-     GitHub Profile README
-     Repo name: samarthpaliwal/samarthpaliwal
-     File: README.md
-========================================================= -->
+<div align="center">
 
-<h1 align="center">Samarth Paliwal</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=160&section=header&text=Samarth%20Paliwal&fontSize=42&fontColor=c9d1d9&fontAlignY=55&animation=fadeIn" />
 
-<p align="center">
-  <b>Software Engineering · AI Systems · Product Builder</b>
-</p>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/samarth-paliwal/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:samarthpaliwal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111?logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://github.com/samarthpaliwal">
-    <img src="https://img.shields.io/badge/GitHub-111?logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarthpaliwal&label=Profile%20views&color=333&style=flat" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=samarthpaliwal&label=Profile+Views&color=0d1117&style=flat-square&labelColor=1a1a2e" />
+
+</div>
 
 ---
 
-────────────────────────────────────────────────────────────
+## 👤 About
 
-## 👋 About me
+CS undergrad focused on **software engineering**, **AI-integrated systems**, and shipping **product-grade applications**.
 
-I’m a Computer Science undergraduate focused on **software engineering**, **AI-assisted systems**, and **shipping product-grade applications**.
+I build end-to-end — UI, APIs, data pipelines, and deployment — with an emphasis on **clarity, correctness, and usability**.
 
-I build systems end-to-end — UI, APIs, data flow, and deployment — with an emphasis on clarity, correctness, and usability.
+🎯 Actively targeting: **AI/ML internships · SWE roles · Research-adjacent engineering**
 
-🎯 Target roles: **AI internships**, **SWE**, **research-adjacent engineering teams**.
+---
 
-────────────────────────────────────────────────────────────
+## 🧠 AI & Systems Focus
 
-## 🧠 Research-first (OpenAI-style)
+I care about how language models integrate into real, production systems — not just demos.
 
-I’m interested in how language models integrate into real systems.
+| Area | Focus |
+|---|---|
+| 🔎 RAG | Retrieval-Augmented Generation pipelines |
+| 🧬 Embeddings | Semantic search, vector stores |
+| 🧪 Evaluation | Failure modes, edge cases, benchmarking |
+| 🧰 Human-in-loop | Tooling for AI-assisted workflows |
 
-**Focus areas**
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧬 Embeddings and semantic search
-- 🧪 Evaluation, failure modes, and edge cases
-- 🧰 Human-in-the-loop AI tools
+Engineering philosophy: **clear ML/product boundaries · reliability over hype · practical iteration**
 
-**Engineering lens**
-- Clear boundaries between ML and product code  
-- Reliability over demos  
-- Practical evaluation and iteration  
+---
 
-────────────────────────────────────────────────────────────
-
-## 🚀 Startup / Product engineer
-
-I enjoy fast-moving environments where:
-- ⚡ features ship quickly
-- 🧱 code stays readable under pressure
-- 🎛️ UX, backend, and data are treated as one system
-
-I like turning vague ideas into working software and iterating under real constraints.
-
-────────────────────────────────────────────────────────────
-
-## ⭐ Featured projects
-
-> Add screenshots to this repo under `./assets/`  
-> Update repo/demo links as needed.
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏨 AI-Powered Hotel Search Platform</h3>
-      <img src="assets/hotel-app.png" alt="Hotel App Screenshot" width="100%" />
+      <h3>🏨 AI Hotel Search Platform</h3>
+      <p>Full-stack hotel search with filters, city data, and an AI assistant layer powered by embeddings and RAG.</p>
       <p>
-        Full-stack hotel search platform with filters, city data, and an AI assistant layer.
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+        <img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <p><b>Tech:</b> React · Node.js · MongoDB · Embeddings · RAG</p>
-      <p>
-        <a href="https://github.com/samarthpaliwal/REPO_LINK">Repo</a> ·
-        <a href="https://DEMO_LINK">Demo</a>
-      </p>
+      <a href="https://github.com/samarthpaliwal">→ View Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 RAG-Based AI Assistant</h3>
-      <img src="assets/rag-assistant.png" alt="RAG Assistant Screenshot" width="100%" />
+      <p>Retrieval + generation system focused on accuracy, latency, and reliability at the application layer.</p>
       <p>
-        Retrieval + generation system focused on accuracy, latency, and reliability.
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/Vector_DB-0d1117?style=flat-square&logo=pinecone&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=375BD2" />
       </p>
-      <p><b>Tech:</b> Python · Vector Search · Prompting</p>
-      <p>
-        <a href="https://github.com/samarthpaliwal/REPO_LINK">Repo</a> ·
-        <a href="https://DEMO_LINK">Demo</a>
-      </p>
+      <a href="https://github.com/samarthpaliwal">→ View Repo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Product Website (React)</h3>
-      <img src="assets/landing-site.png" alt="Landing Site Screenshot" width="100%" />
+      <h3>🌐 React Product Landing Site</h3>
+      <p>Production-style landing page with responsive design, animations, and clean component architecture.</p>
       <p>
-        Production-style landing site with clean layout, responsive design, and animations.
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+        <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <p><b>Tech:</b> React · Modern CSS · Component Architecture</p>
-      <p>
-        <a href="https://github.com/samarthpaliwal/REPO_LINK">Repo</a> ·
-        <a href="https://DEMO_LINK">Demo</a>
-      </p>
+      <a href="https://github.com/samarthpaliwal">→ View Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Backend API System</h3>
-      <img src="assets/backend-api.png" alt="Backend API Screenshot" width="100%" />
+      <h3>⚙️ REST API Backend</h3>
+      <p>Structured REST API with data models, validation, and modular Express routing.</p>
       <p>
-        REST API with structured data models and validation.
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
       </p>
-      <p><b>Tech:</b> Node.js · Express · MongoDB</p>
-      <p>
-        <a href="https://github.com/samarthpaliwal/REPO_LINK">Repo</a>
-      </p>
+      <a href="https://github.com/samarthpaliwal">→ View Repo</a>
     </td>
   </tr>
 </table>
 
-────────────────────────────────────────────────────────────
+---
 
-## 🛠 Technical stack
+## 🛠 Tech Stack
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-
-**Frontend**
-- React
-- Modern CSS
-- Component-driven UI
-
-**Backend**
-- Node.js
-- Express
-- REST APIs
-- MongoDB
-
-**AI / ML**
-- ML fundamentals
-- Embeddings
-- RAG pipelines
-- Prompt-based systems
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Vercel
-- AWS (foundations)
-
-────────────────────────────────────────────────────────────
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthpaliwal&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpaliwal&layout=compact&theme=dark&hide_border=true" width="48%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,git,vercel,vscode,aws&theme=dark" />
 </p>
 
-────────────────────────────────────────────────────────────
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarthpaliwal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthpaliwal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpaliwal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" width="48%" />
+</div>
+
+---
 
 ## 📫 Contact
 
-- 📧 **[samarthpaliwal@gmail.com](mailto:samarthpaliwal@gmail.com)**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/samarth-paliwal/
+| | |
+|---|---|
+| 📧 Email | [samarthpaliwal@gmail.com](mailto:samarthpaliwal@gmail.com) |
+| 💼 LinkedIn | [samarth-paliwal](https://www.linkedin.com/in/samarth-paliwal/) |
+| 🐙 GitHub | [@samarthpaliwal](https://github.com/samarthpaliwal) |
 
-<!-- =========================
-     End of README
-========================= -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" />
+</div>
